@@ -1,0 +1,2 @@
+model,fmin_records,reapply_33_per_freq,eas_lo,eas_hi,psa_lo,psa_hi,n_gm,n_events,n_stations,n_ims
+SW2025,per_record_mask,True,0.05,1.0,1.0,10.0,1510,29,142,84
