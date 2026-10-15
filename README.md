@@ -62,7 +62,7 @@ Contains Electronic Supplement B of the paper in CSV format.
 
 ## 2. IMs/
 
-Contains the observed and simulated intensity measures (IMs) used in the analyses. Each IM file has one row per ground motion, keyed by `gm_id`, `event_id`, and `stat_id`, followed by the scalar IMs (PGA, PGV, CAV, AI, Ds575, Ds595) and then pSA and EAS across a range of periods and frequencies.
+Contains the observed and simulated intensity measures (IMs) used in the analyses. Each IM file has one row per ground motion, keyed by `gm_id`, `event_id`, and `stat_id`, followed by pSA and EAS across a range of periods and frequencies.
 
 - `Observed_IMs.csv`: IMs for the 1510 observed ground motions.
 - `Simulated_IMs_<model>.csv`: simulated IMs for each of the six tomography models.
