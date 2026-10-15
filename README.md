@@ -64,7 +64,7 @@ Contains Electronic Supplement B of the paper in CSV format.
 
 Contains the observed and simulated intensity measures (IMs) used in the analyses. Each IM file has one row per ground motion, keyed by `gm_id`, `event_id`, and `stat_id`, followed by pSA and EAS across a range of periods and frequencies.
 
-- `Observed_IMs.csv`: IMs for the 1510 observed ground motions.
+- `Observed_IMs.csv`: IMs for the observed ground motions.
 - `Simulated_IMs_<model>.csv`: simulated IMs for each of the six tomography models.
 - `Events.csv` and `Stations.csv`: metadata mapping `event_id` to the event name and `stat_id` to the station code.
 

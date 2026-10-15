@@ -1,4 +1,4 @@
-Site,Latitude (°),Longitude (°),Basin,Geomorphology,Vs30,T0,NEs
+Site,Latitude (Â°),Longitude (Â°),Basin,Geomorphology,Vs30,T0,NEs
 ARKS,-41.24207703,174.9440964,Wellington,Valley,267,0.37,20
 AWRB,-41.658785,174.076946,Marlborough,Basin,215,0.55,3
 BFZ,-40.67964728,176.2462451,-,Hill,800,0.04,11
