@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying paper (see preferred-citation below)."
+title: "Evaluation of 3D crustal seismic velocity models for physics-based ground-motion simulation in New Zealand"
+type: dataset
+authors:
+  - given-names: Ayushi
+    family-names: Tiwari
+    email: ayushi.tiwari@pg.canterbury.ac.nz
+    affiliation: University of Canterbury
+    orcid: "https://orcid.org/0000-0002-8713-0881"
+  - given-names: Brendon
+    family-names: Bradley
+    email: brendon.bradley@canterbury.ac.nz
+    affiliation: University of Canterbury
+    orcid: "https://orcid.org/0000-0002-4450-314X"
+  - given-names: Felipe
+    family-names: Kuncar
+    email: felipe.kuncar@canterbury.ac.nz
+    affiliation: University of Canterbury
+    orcid: "https://orcid.org/0000-0003-2779-2290"
+  - given-names: Dan
+    family-names: Bassett
+    affiliation: Earth Sciences New Zealand
+
+repository-code: "https://github.com/Ayushi-EQ/Crustal_VelocityModels_Testing"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Evaluation of 3D crustal seismic velocity models for physics-based ground-motion simulation in New Zealand"
+  authors:
+    - given-names: Ayushi
+      family-names: Tiwari
+      orcid: "https://orcid.org/0000-0002-8713-0881"
+    - given-names: Brendon
+      family-names: Bradley
+      orcid: "https://orcid.org/0000-0002-4450-314X"
+    - given-names: Felipe
+      family-names: Kuncar
+      orcid: "https://orcid.org/0000-0003-2779-2290"
+    - given-names: Dan
+      family-names: Bassett
+  journal: "Earthquake Spectra"
+  year: 2026
+  notes: "Manuscript submitted for publication; citation details to be updated upon acceptance."
